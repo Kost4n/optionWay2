@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994954883592",
+    "project_id": "optionway2-c2168",
+    "storage_bucket": "optionway2-c2168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994954883592:android:b2686167183a343e5357bd",
+        "android_client_info": {
+          "package_name": "com.kost4n.optionway2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994954883592-dhak59qir9ko8vaao81rd85r3r2bsenj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_rpW74HIntEsTdDXOfezdyBrQFWWGps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994954883592-dhak59qir9ko8vaao81rd85r3r2bsenj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
